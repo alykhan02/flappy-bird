@@ -1,5 +1,6 @@
 # flappy-bird
 flappy bird game
+use spacebar to jump
 
 
 download the assets/font files then run flappy_bird.py and enjoy the game :) 
